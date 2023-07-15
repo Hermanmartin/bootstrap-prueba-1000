@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*
+
+
+.row > div {
+    border: 4px solid black;
+    height: 40px;
+}
+
+.row {
+    height: 200px;
+    background: yellowgreen;
+}
+
+/*
+.row > div {
+    border: 4px solid black;
+    height: 40px;
+
+}*/
+/*
+ body {
+    background: whitesmoke;
+}
+
+header {
+    background: yellowgreen;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.contenedor-main{
+    margin-bottom: 20px;
+
+}
+
+main{
+    background: white;
+    color: black;
+    padding: 20px;
+}
+
+aside {
+    background: lightcoral;
+    padding: 60px 0;
+    color: blue;
+}
+
+.widgets {
+    background: gold;
+    color: black;
+}
+
+.widgets > div {
+    background: pink;
+}
+*/
